@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="Hibernate">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/docs/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/backends/jgroups/src/main/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/backends/jgroups/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/backends/jms/src/main/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/backends/jms/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/build-config/src/main/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/build-config/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/elasticsearch-aws/src/main/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/elasticsearch/src/main/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/elasticsearch/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/engine/src/main/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/engine/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/integrationtest/elasticsearch/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/integrationtest/jdk9-modules/src/main/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/integrationtest/jdk9-modules/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/integrationtest/jms/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/integrationtest/narayana/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/integrationtest/osgi/karaf-it/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/integrationtest/performance/engine-elasticsearch/src/main/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/integrationtest/performance/engine-lucene/src/main/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/integrationtest/performance/orm/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/integrationtest/performance/sandbox/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/integrationtest/spring/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/integrationtest/wildfly/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/orm/src/main/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/orm/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/serialization/avro/src/main/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/serialization/avro/src/test/java" />
+      <root url="file://C:/Hibernate/hibernate-search-5.8.0.Final/project/testing/src/main/java" />
+      <root url="file://C:/javafx-sdk-17.0.1/javafx.base" />
+      <root url="file://C:/javafx-sdk-17.0.1/javafx.controls" />
+      <root url="file://C:/javafx-sdk-17.0.1/javafx.fxml" />
+      <root url="file://C:/javafx-sdk-17.0.1/javafx.graphics" />
+      <root url="file://C:/javafx-sdk-17.0.1/javafx.media" />
+      <root url="file://C:/javafx-sdk-17.0.1/javafx.swing" />
+      <root url="file://C:/javafx-sdk-17.0.1/javafx.web" />
+      <root url="file://C:/Hibernate" />
+      <root url="file://C:/javafx-sdk-17.0.1" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Hibernate" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://C:/javafx-sdk-17.0.1" recursive="false" type="SOURCES" />
+  </library>
+</component>
